@@ -3,6 +3,7 @@ It's a chat-bot which took me for a couple of month's to deployy it over discord
 
 Here is the video.
 https://user-images.githubusercontent.com/69459134/202701593-aeead4fc-0fbe-4802-83c4-a049b2c25f52.mp4
+</>
 Here is the bot Profile.
 ![Screenshot_20221118_172955](https://user-images.githubusercontent.com/69459134/202701554-b4830a22-cc46-4458-867c-1e2c2d848d37.png)
 Here is the bot invite page:- 
