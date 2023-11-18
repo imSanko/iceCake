@@ -7,7 +7,7 @@ https://user-images.githubusercontent.com/69459134/202701593-aeead4fc-0fbe-4802-
 ## Here is the bot Profile..
 ![Screenshot_20221118_172955](https://user-images.githubusercontent.com/69459134/202701554-b4830a22-cc46-4458-867c-1e2c2d848d37.png)
 ###### Here is the bot invite page :- 
-https://discord.com/api/oauth2/authorize?client_id=478558150103007233&permissions=8&scope=bot
+https://discord.com/api/oauth2/authorize?client_id=478558150103007233&permissions=8&scope=bot.
 
 ###### VIDEO OF CHAT-BOT (CHATTING) :
 https://user-images.githubusercontent.com/69459134/203338126-76f68ca2-956a-4aed-8fea-5ffaab76e8d8.mp4
