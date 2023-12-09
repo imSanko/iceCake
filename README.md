@@ -1,7 +1,7 @@
-# iceCakÉ Discord Chat-BOT:
+# iceCakÉ Discord Chat-BOT.
 It's a chat-bot which took me for a couple of month's to deployy it over discord which does pretty good stuff like taking to you when ur lonely and left over. The INVITE_LINK will be in the @ReadME section do try out with "?" Prefix command's..
 
-> Here is the video...
+# Here is the video...
 https://user-images.githubusercontent.com/69459134/202701593-aeead4fc-0fbe-4802-83c4-a049b2c25f52.mp4
 </>
 ## Here is the bot Profile..
