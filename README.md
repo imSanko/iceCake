@@ -9,6 +9,6 @@ https://user-images.githubusercontent.com/69459134/202701593-aeead4fc-0fbe-4802-
 ###### Here is the bot invite page :- 
 https://discord.com/api/oauth2/authorize?client_id=478558150103007233&permissions=8&scope=bot.
 
-###### VIDEO OF CHAT-BOT (CHATTING) :
+###### VIDEO OF CHAT-BOT (CHATTING) :-
 https://user-images.githubusercontent.com/69459134/203338126-76f68ca2-956a-4aed-8fea-5ffaab76e8d8.mp4
 
