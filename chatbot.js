@@ -1,7 +1,7 @@
 module.exports = [
     {
       name: "set-chatbot",
-      aliases: ["setchatbot", "chatbot"],
+      aliases: ["set chatbot", "chatbot"],
       category: "Chatbot",
       description: "Sets chatbot of the server",
   
