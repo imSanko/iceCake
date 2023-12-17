@@ -6,7 +6,7 @@ const bot = new aoijs.AoiClient({
   mobilePlatform: true,
 });
 
-//status
+//status from the bot
 bot.status({
   text: "Watching Sanko @Socials",
   type: "SOCIALS",
