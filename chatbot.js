@@ -16,7 +16,9 @@ module.exports = [
   
   $onlyIf[$message!=;{newEmbed:{description:Invalid Args!
   Usage:
+  
   \`set-chatbot <channel mention | channel name | channel ID>\`}{color:RED}}]
+
   
   $onlyIf[$findChannel[$message;no]!=$getServerVar[chatbotChannel];{newEmbed:{description:\:_\: Chat bot is already active in <#$findChannel[$message;no]>}{color:RED}}]
   
