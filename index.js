@@ -12,6 +12,7 @@ bot.status({
   type: "SOCIALS",
   url: "https://www.linkedin.com/in/saptadeep-banerjee-2b15bbb0/",
 });
+
 //Events
 bot.onMessage();
 
