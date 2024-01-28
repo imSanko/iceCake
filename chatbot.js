@@ -7,6 +7,7 @@ module.exports = [
       code: `
   $description[1;> Successfully enabled the chatbot to <#$findChannel[$message;no]>]
   $color[1;GREEN]
+  
   $setServerVar[chatbotChannel;$findChannel[$message;no]]
   
   $onlyIf[$findChannel[$message;no]!=;{newEmbed:{description:\:_\: Invalid Args in \`<channel>\`
