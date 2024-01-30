@@ -5,6 +5,7 @@ module.exports = [
       category: "Chatbot",
       description: "Sets chatbot of the server",
       code: `
+      
   $description[1;> Successfully enabled the chatbot to <#$findChannel[$message;no]>]
   $color[1;GREEN]
   
