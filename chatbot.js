@@ -28,7 +28,6 @@ module.exports = [
   
   `,
     },
-    
     {
       name: "reset-chatbot",
       aliases: "resetchatbot",
