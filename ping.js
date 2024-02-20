@@ -1,4 +1,5 @@
-module.exports = {
+module.exports =
+    {
     name: "ping",
     code: `$author[1;$serverName[$guildID];$serverIcon[$guildID]]
     
