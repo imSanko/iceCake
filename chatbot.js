@@ -1,4 +1,5 @@
-module.exports = [
+module.exports =
+ [
     {
       name: "set-chatbot",
       aliases: ["set chatbot", "chatbot"],
