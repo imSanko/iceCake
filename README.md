@@ -12,3 +12,4 @@ https://discord.com/api/oauth2/authorize?client_id=478558150103007233&permission
 
 ###### VIDEO OF CHAT-BOT (CHATTING):-
 https://user-images.githubusercontent.com/69459134/203338126-76f68ca2-956a-4aed-8fea-5ffaab76e8d8.mp4.
+
