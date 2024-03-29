@@ -1,6 +1,5 @@
 const aoijs = require("aoi.js");
-const bot = new aoijs.AoiClient
-({
+const bot = new aoijs.AoiClient({
   token: process.env.Token,
   prefix: "?",
   intents: ["GUILDS", "GUILD_MESSAGES"],
