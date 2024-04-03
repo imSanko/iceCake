@@ -26,9 +26,7 @@ module.exports =
   $onlyIf[$findChannel[$message;no]!=$getServerVar[chatbotChannel];{newEmbed:{description:\:_\: Chat bot is already active in <#$findChannel[$message;no]>}{color:RED}}]
   
   $onlyPerms[admin;{newEmbed:{description: Missing
-  \`Manage_Server\` Perms}{color:RED}}]
-  
-  `,
+  \`Manage_Server\` Perms}{color:RED}}]`,
      
     },
     
