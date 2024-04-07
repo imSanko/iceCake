@@ -7,8 +7,7 @@ const bot = new aoijs.AoiClient({
 });
 
 //status from the bot
-bot.status
-({
+bot.status({
   text: "Watching Sanko @Socials",
   type: "SOCIALS",
   url: "https://www.linkedin.com/in/saptadeep-banerjee-2b15bbb0/",
