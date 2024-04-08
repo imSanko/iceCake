@@ -15,7 +15,6 @@ module.exports =
   
   $onlyIf[$findChannel[$message;no]!=;{newEmbed:{description:\:_\: Invalid Args in \`<channel>\`
   Usage:
-  
   \`set-chatbot <channel name | mention>\`}{color:RED}}]
   
   $onlyIf[$message!=;{newEmbed:{description:Invalid Args!
