@@ -47,7 +47,7 @@ module.exports =
   
     $onlyPerms[admin;{newEmbed:{description:\:_\: Missing
     \`Manage_Server\` Perms!}{color:RED}}]
-      `,
+      ` ,
     },
   ];
   
